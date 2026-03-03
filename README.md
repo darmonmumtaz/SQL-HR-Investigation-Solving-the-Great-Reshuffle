@@ -112,7 +112,7 @@ The project includes dashboard-ready queries for:
 * Excel (Data population)
 * Data modeling & normalization principles
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 SQL_Scripts/
